@@ -1,0 +1,8 @@
+path,decode64,supct_flags
+/home/ubuntu/.file.txt,FIAP{usuario_home_file_malicioso},RklBUHt1c3VhcmlvX2hvbWVfZmlsZV9tYWxpY2lvc299
+/etc/hosts,FIAP{resolve_dns_linux_dns},RklBUHtyZXNvbHZlX2Ruc19saW51eF9kbnN9
+/etc/passwd,FIAP{linux_root_shadown},RklBUHtsaW51eF9yb290X3NoYWRvd259
+/etc/group,FIAP{linux_root_shadown},RklBUHtsaW51eF9yb290X3NoYWRvd259
+/etc/crontab,FIAP{job_schedule_task_linux_facil},RklBUHtqb2Jfc2NoZWR1bGVfdGFza19saW51eF9mYWNpbH0=
+/usr/bin/app.sh,FIAP{python_bash_script_elf},RklBUHtweXRob25fYmFzaF9zY3JpcHRfZWxmfQ==
+/var/www/html/index.html,FIAP{index_html_flag_web_server},RklBUHtpbmRleF9odG1sX2ZsYWdfd2ViX3NlcnZlcn0=

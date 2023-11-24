@@ -1,0 +1,15 @@
+name = "resolucaogs"
+uuid = "5620c60f-425b-42c1-901d-07af11becf83"
+authors = ["loribao <lorival.sanjinez@hotmail.com>"]
+version = "0.1.0"
+
+[deps]
+AbstractTrees = "1520ce14-60c1-5f80-bbc7-55ef81b5835c"
+CSV = "336ed68f-0bac-5ca0-87d4-7b16caf5d00b"
+ClassicalCiphers = "ecf26e93-935c-5e64-9b21-bc8ac81b4723"
+CodecBase = "6c391c72-fb7b-5838-ba82-7cfb1bcfecbf"
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+DotEnv = "4dc1fcf4-5e3b-5448-94ab-0c38ec0385c1"
+Gumbo = "708ec375-b3d6-5a57-a7ce-8257bf98657a"
+HTTP = "cd3eb016-35fb-5094-929b-558a96fad6f3"
+URIs = "5c2747f8-b7ea-4ff2-ba2e-563bfd36b1d4"

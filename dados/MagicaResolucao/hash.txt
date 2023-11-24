@@ -1,0 +1,2 @@
+Magica.zip/Magica/flag.pdf:$zip2$*0*3*0*5e6874b4502c8250b2a618543de2a650*bf56*28*cc4ffaa12a7b647a26a362049842f670145c797ed7e46aad0aede1fdd0a38c381bd5145d506580d8*bb716f7901735f090566*$/zip2$:Magica/flag.pdf:Magica.zip:Magica.zip
+Magica.zip/Magica/flag.pdf:$pkzip2$1*1*2*0*44*28*31e07d66*25*38*63*44*31e0*b34d*5e6874b4502c8250b2a618543de2a650bf56cc4ffaa12a7b647a26a362049842f670145c797ed7e46aad0aede1fdd0a38c381bd5145d506580d8bb716f7901735f090566*$/pkzip2$:Magica/flag.pdf:Magica.zip::Magica.zip

@@ -1,0 +1,10 @@
+using Pkg
+Pkg.add("HTTP")
+Pkg.add("AbstractTrees")
+Pkg.add("DotEnv")
+Pkg.add("Gumbo")
+Pkg.add("DataFrames")
+Pkg.add("CSV")  
+Pkg.add("CodecBase")
+Pkg.add("ClassicalCiphers")
+Pkg.add("URIs")
